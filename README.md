@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Salah-Eddine 👋
+### Full-Stack Web Developer | PHP & Laravel Specialist
 
-<!--
-**salah19910311/salah19910311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build robust, scalable web applications, RESTful APIs, and custom management systems focused on performance and security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+- **Backend:** PHP 8.x, Laravel, MySQL, RESTful APIs
+- **Frontend:** JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Tools & Environment:** Git, VS Code, XAMPP, Cloudflare, Linux / Windows
+
+---
+
+### ⚡ What I Do
+
+- 🚀 Build custom Web Applications & Management Portals (HR, Dashboards, ERPs)
+- ⚙️ Database Optimization & Backend Architecture Development
+- 🔒 System Integration, Security, and API Services
+
+---
+
+### 📫 Connect with Me
+
+- **Email:** [smouhoub15@gmail.com]
